@@ -1,6 +1,6 @@
-# CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference
+# CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference 
 
-This repository contains the dataset for the paper **CoSafe**: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference. Erxin Yu, Jing Li, Ming Liao, Siqi Wang, Gao Zuchen, Fei Mi, Lanqing Hong. [pdf](https://aclanthology.org/2024.emnlp-main.968/)
+This repository contains the dataset for the EMNLP 2024 paper **CoSafe**: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference. Erxin Yu, Jing Li, Ming Liao, Siqi Wang, Gao Zuchen, Fei Mi, Lanqing Hong. [pdf](https://aclanthology.org/2024.emnlp-main.968/)
 
 
 ## Description
